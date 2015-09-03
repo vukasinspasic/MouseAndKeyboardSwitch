@@ -1,0 +1,12 @@
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\bin\Debug\MouseAndKeyboardSwitch.dll.config
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\bin\Debug\MouseAndKeyboardSwitch.dll
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\bin\Debug\MouseAndKeyboardSwitch.pdb
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\obj\Debug\MouseAndKeyboardSwitch.dll
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\obj\Debug\MouseAndKeyboardSwitch.pdb
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\obj\Debug\MouseAndKeyboardSwitch.csprojResolveAssemblyReference.cache
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\bin\Debug\MouseAndKeyboardSwitch.dll.config
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\bin\Debug\MouseAndKeyboardSwitch.dll
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\bin\Debug\MouseAndKeyboardSwitch.pdb
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\obj\Debug\MouseAndKeyboardSwitch.csprojResolveAssemblyReference.cache
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\obj\Debug\MouseAndKeyboardSwitch.dll
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\obj\Debug\MouseAndKeyboardSwitch.pdb

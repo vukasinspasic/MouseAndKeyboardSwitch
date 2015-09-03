@@ -1,0 +1,16 @@
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\TestCaseConsole.exe.config
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\TestCaseConsole.exe
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\TestCaseConsole.pdb
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\MouseAndKeyboardSwitch.dll
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\MouseAndKeyboardSwitch.pdb
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\obj\Debug\TestCaseConsole.csprojResolveAssemblyReference.cache
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\obj\Debug\TestCaseConsole.exe
+D:\Programiranje\Fra.me\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\obj\Debug\TestCaseConsole.pdb
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\TestCaseConsole.exe.config
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\obj\Debug\TestCaseConsole.exe
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\obj\Debug\TestCaseConsole.pdb
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\TestCaseConsole.exe
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\TestCaseConsole.pdb
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\MouseAndKeyboardSwitch.dll
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\bin\Debug\MouseAndKeyboardSwitch.pdb
+D:\Programiranje\Fra.me\VS2012\MouseAndKeyboardSwitch\MouseAndKeyboardSwitch\TestCaseConsole\obj\Debug\TestCaseConsole.csprojResolveAssemblyReference.cache
